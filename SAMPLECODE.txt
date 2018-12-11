@@ -1,3 +1,5 @@
 nag code ko diri
 nag add ko code diri
 add new line
+
+nalimtan nga line
