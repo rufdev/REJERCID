@@ -6,6 +6,21 @@ nalimtan nga line
 fix bug 1
 add new lines
 
+<<<<<<< HEAD
 
 
-hoyCid!
+
+=======
+edit ni rufy
+>>>>>>> ddafab56990c54537505b2d14f03c297985cde6c
+
+
+
+
+
+
+
+
+
+
+HOYCID!
