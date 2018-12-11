@@ -3,3 +3,4 @@ nag add ko code diri
 add new line
 
 fix bug 1
+add new lines
